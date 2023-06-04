@@ -1,0 +1,15 @@
+C:\Users\РомкаИЛИЛЯ\Desktop\Семинары ДЗ\Семинар_2_ДЗ\bin\Debug\net7.0\Семинар_2_ДЗ.exe
+C:\Users\РомкаИЛИЛЯ\Desktop\Семинары ДЗ\Семинар_2_ДЗ\bin\Debug\net7.0\Семинар_2_ДЗ.deps.json
+C:\Users\РомкаИЛИЛЯ\Desktop\Семинары ДЗ\Семинар_2_ДЗ\bin\Debug\net7.0\Семинар_2_ДЗ.runtimeconfig.json
+C:\Users\РомкаИЛИЛЯ\Desktop\Семинары ДЗ\Семинар_2_ДЗ\bin\Debug\net7.0\Семинар_2_ДЗ.dll
+C:\Users\РомкаИЛИЛЯ\Desktop\Семинары ДЗ\Семинар_2_ДЗ\bin\Debug\net7.0\Семинар_2_ДЗ.pdb
+C:\Users\РомкаИЛИЛЯ\Desktop\Семинары ДЗ\Семинар_2_ДЗ\obj\Debug\net7.0\Семинар_2_ДЗ.csproj.AssemblyReference.cache
+C:\Users\РомкаИЛИЛЯ\Desktop\Семинары ДЗ\Семинар_2_ДЗ\obj\Debug\net7.0\Семинар_2_ДЗ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\РомкаИЛИЛЯ\Desktop\Семинары ДЗ\Семинар_2_ДЗ\obj\Debug\net7.0\Семинар_2_ДЗ.AssemblyInfoInputs.cache
+C:\Users\РомкаИЛИЛЯ\Desktop\Семинары ДЗ\Семинар_2_ДЗ\obj\Debug\net7.0\Семинар_2_ДЗ.AssemblyInfo.cs
+C:\Users\РомкаИЛИЛЯ\Desktop\Семинары ДЗ\Семинар_2_ДЗ\obj\Debug\net7.0\Семинар_2_ДЗ.csproj.CoreCompileInputs.cache
+C:\Users\РомкаИЛИЛЯ\Desktop\Семинары ДЗ\Семинар_2_ДЗ\obj\Debug\net7.0\Семинар_2_ДЗ.dll
+C:\Users\РомкаИЛИЛЯ\Desktop\Семинары ДЗ\Семинар_2_ДЗ\obj\Debug\net7.0\refint\Семинар_2_ДЗ.dll
+C:\Users\РомкаИЛИЛЯ\Desktop\Семинары ДЗ\Семинар_2_ДЗ\obj\Debug\net7.0\Семинар_2_ДЗ.pdb
+C:\Users\РомкаИЛИЛЯ\Desktop\Семинары ДЗ\Семинар_2_ДЗ\obj\Debug\net7.0\Семинар_2_ДЗ.genruntimeconfig.cache
+C:\Users\РомкаИЛИЛЯ\Desktop\Семинары ДЗ\Семинар_2_ДЗ\obj\Debug\net7.0\ref\Семинар_2_ДЗ.dll
